@@ -7,6 +7,10 @@ cover: email.webp
 global:
  - [randomize-element, "table tbody"]
 ---
+<small>Protects against the following threat(s):</small>
+
+- [:material-server-network: Service Providers](basics/common-threats.md#privacy-from-service-providers){ .pg-teal }
+
 Email is practically a necessity for using any online service, however we do not recommend it for person-to-person conversations. Rather than using email to contact other people, consider using an instant messaging medium that supports forward secrecy.
 
 [Recommended Instant Messengers](real-time-communication.md){ .md-button }
@@ -376,7 +380,7 @@ With the email providers we recommend, we like to see responsible marketing.
 
 Must not have any irresponsible marketing, which can include the following:
 
-- Claims of "unbreakable encryption." Encryption should be used with the intention that it may not be secret in the future when the technology exists to crack it.
+- Claiming to use "unbreakable encryption." Encryption should be used with the intention that it may not be secret in the future when the technology exists to crack it.
 - Making guarantees of protecting anonymity 100%. When someone makes a claim that something is 100% it means there is no certainty for failure. We know people can quite easily de-anonymize themselves in a number of ways, e.g.:
 
     - Reusing personal information e.g. (email accounts, unique pseudonyms, etc.) that they accessed without anonymity software (Tor, VPN, etc.)
