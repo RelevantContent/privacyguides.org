@@ -81,6 +81,13 @@ These options can be found in :material-menu: → **Settings** → **Privacy & S
 
 </div>
 
+<div class="admonition info" markdown>
+<p class="admonition-title">For people using macOS Sonoma</p>
+
+Currently, there isn't a stable release of GPG Suite for macOS [Sonoma](https://gpgtools.com/sonoma).
+
+</div>
+
 Apple Mail has the ability to load remote content in the background or block it entirely and hide your IP address from senders on [macOS](https://support.apple.com/guide/mail/mlhl03be2866/mac) and [iOS](https://support.apple.com/guide/iphone/iphf084865c7/ios).
 
 ### Canary Mail (iOS)
